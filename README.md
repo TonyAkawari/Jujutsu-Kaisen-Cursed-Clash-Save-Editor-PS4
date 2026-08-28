@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
-> A lightweight Windows Forms in .NET10 application designed to validate checksums for decrypted **Jujutsu Kaisen: Cursed Clash** PS4 save files while providing built-in cheats.
+> A lightweight Windows Forms in .NET10 application designed to validate checksums for decrypted **Jujutsu Kaisen: Cursed Clash** PS4 save files while providing built-in cheats. Made in conjunction with Claude and Replit AI's to fix checksum and visual errors in VS
 
 Features & Overview
 
