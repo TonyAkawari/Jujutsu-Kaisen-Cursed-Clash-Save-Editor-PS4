@@ -8,8 +8,8 @@
 Features & Overview
 
 - **Save File Validation:** Automatically calculates and updates decrypted save checksums to prevent save corruption.
-- **Resource Editing:** Max out essential currencies and experience pools in seconds.
-- **Trophy-Safe Options:** Clearly categorized cheats to preserve trophy progress while maximizing unlocks.
+- **Resource Editing:** Max out essential currencies and experience in seconds.
+- **Trophy-Safe Options:** Clearly categorized cheats to preserve trophy popping progression.
 
 Independent Boosts
 > Get items unlocked faster without messing up trophy progression.
@@ -40,11 +40,13 @@ Skill Level Modifications
 | `40,000` | **Maximum Unlocks** *(Unlocks the most expensive items in the game. Note:5k/15k trophies won't pop, do them 1st).* |
 
 Basic Guide
-1. **Decrypt Save:** Decrypt your PS4 save file using your preferred PS4 save management tool (e.g., Save Wizard / Apollo Save Tool).
-2. **Open File:** Launch the editor and load your decrypted save file.
-3. **Select Modifications:** Check the cheats you wish to apply.
-4. **Save & Re-sign:** Save your file (checksum is recalculated automatically) and re-sign/encrypt back to your PS4 console.
+1. **Decrypt Save:** Decrypt your PS4 save file using your preferred PS4 save management tool (e.g., Save Wizard / Apollo Save Tool / Discord bots).
+2. **Import:** Launch the editor and load your decrypted save file.
+3. **Select Cheats** Check the cheats you wish to apply.
+4. **Customize** You can also modify the save yourself with a HEX editor and use the Save editor import and export a validated save.
+5. **Export & Re-sign:** Save your file (checksum is recalculated automatically) and import/encrypt back to your PS4 console.
 
 Disclaimer & License
-This tool is created for educational and personal use only. Backup your save files prior to editing. 
+This tool is created for educational and personal use only. In no way associated with any enterprise, corporation or IP holder.
+Backup your save files prior to editing. 
 Distributed under the GNU General Public License v3.0 (GPL-3.0).
