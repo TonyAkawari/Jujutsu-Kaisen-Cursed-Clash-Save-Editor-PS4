@@ -30,3 +30,22 @@ G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Release\net1
 G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.genruntimeconfig.cache
 G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Release\net10.0-windows\ref\CursedClashSaveEditor.dll
 G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.dll.config
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.exe
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.dll.config
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.deps.json
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.runtimeconfig.json
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.dll
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\bin\Release\net10.0-windows\CursedClashSaveEditor.pdb
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.MainForm.resources
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.Properties.Resources.resources
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.csproj.GenerateResource.cache
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.GeneratedMSBuildEditorConfig.editorconfig
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.AssemblyInfoInputs.cache
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.AssemblyInfo.cs
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.csproj.CoreCompileInputs.cache
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.sourcelink.json
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.dll
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\refint\CursedClashSaveEditor.dll
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.pdb
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\CursedClashSaveEditor.genruntimeconfig.cache
+G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\obj\Release\net10.0-windows\ref\CursedClashSaveEditor.dll

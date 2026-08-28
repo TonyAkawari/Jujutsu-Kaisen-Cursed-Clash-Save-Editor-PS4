@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Downloads\\CursedClashSaveEditor-source\\",
+  "WorkspaceRootPath": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|g:\\downloads\\cursedclashsaveeditor-source\\cursedclashsaveeditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|g:\\1 - save editor dev\\jjk cursed clash save editor ps4\\jujutsu kaisen cursed clash save editor ps4\\cursedclashsaveeditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|solutionrelative:cursedclashsaveeditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|g:\\downloads\\cursedclashsaveeditor-source\\cursedclashsaveeditor\\cursedclashsaveeditor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|solutionrelative:cursedclashsaveeditor\\cursedclashsaveeditor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|g:\\1 - save editor dev\\jjk cursed clash save editor ps4\\jujutsu kaisen cursed clash save editor ps4\\cursedclashsaveeditor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|solutionrelative:cursedclashsaveeditor\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|g:\\downloads\\cursedclashsaveeditor-source\\cursedclashsaveeditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|g:\\1 - save editor dev\\jjk cursed clash save editor ps4\\jujutsu kaisen cursed clash save editor ps4\\cursedclashsaveeditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8DCC7A6-6F3F-4E38-91AB-0CDE8F5D1E25}|CursedClashSaveEditor\\CursedClashSaveEditor.csproj|solutionrelative:cursedclashsaveeditor\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,36 +30,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CursedClashSaveEditor\\MainForm.Designer.cs",
+              "ToolTip": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\MainForm.Designer.cs",
+              "RelativeToolTip": "CursedClashSaveEditor\\MainForm.Designer.cs",
+              "ViewState": "AgIAACgFAAAAAAAAAAAgwD8FAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T16:31:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\MainForm.cs",
+              "DocumentMoniker": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\MainForm.cs",
               "RelativeDocumentMoniker": "CursedClashSaveEditor\\MainForm.cs",
-              "ToolTip": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\MainForm.cs",
+              "ToolTip": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\MainForm.cs",
               "RelativeToolTip": "CursedClashSaveEditor\\MainForm.cs",
-              "ViewState": "AgIAAFABAAAAAAAAAIAwwFQBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAEwFMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T14:37:04.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CursedClashSaveEditor",
-              "DocumentMoniker": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
-              "RelativeDocumentMoniker": "CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
-              "ToolTip": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
-              "RelativeToolTip": "CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-28T11:29:50.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\MainForm.cs",
+              "DocumentMoniker": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\MainForm.cs",
               "RelativeDocumentMoniker": "CursedClashSaveEditor\\MainForm.cs",
-              "ToolTip": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\MainForm.cs [Design]",
+              "ToolTip": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\MainForm.cs [Design]",
               "RelativeToolTip": "CursedClashSaveEditor\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T02:18:52.093Z",

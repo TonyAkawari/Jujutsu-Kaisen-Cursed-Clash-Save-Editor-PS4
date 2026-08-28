@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
+      "projectUniqueName": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
       "projectName": "CursedClashSaveEditor",
-      "projectPath": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
+      "projectPath": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\CursedClashSaveEditor.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "G:\\Downloads\\CursedClashSaveEditor-source\\CursedClashSaveEditor\\obj\\",
+      "outputPath": "G:\\1 - Save Editor Dev\\JJK Cursed Clash Save Editor PS4\\Jujutsu Kaisen Cursed Clash Save Editor PS4\\CursedClashSaveEditor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

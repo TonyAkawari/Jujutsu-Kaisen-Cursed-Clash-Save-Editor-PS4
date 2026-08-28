@@ -212,12 +212,12 @@ partial class MainForm
         lblStatValueCoop = new Label();
         lblStatNameJuju = new Label();
         lblStatValueJuju = new Label();
+        lblStatNameCoOpExp = new Label();
+        lblStatValueCoOpExp = new Label();
         lblStatNameTasks = new Label();
         lblStatValueTasks = new Label();
         lblStatNameSkill = new Label();
         lblStatValueSkill = new Label();
-        lblStatNameCoOpExp = new Label();
-        lblStatValueCoOpExp = new Label();
         pnlResetRow = new TableLayoutPanel();
         _dirtyLabel = new Label();
         _resetButton = new Button();
@@ -1336,12 +1336,12 @@ partial class MainForm
         _statsTable.Controls.Add(lblStatValueCoop, 1, 2);
         _statsTable.Controls.Add(lblStatNameJuju, 0, 3);
         _statsTable.Controls.Add(lblStatValueJuju, 1, 3);
-        _statsTable.Controls.Add(lblStatNameTasks, 0, 4);
-        _statsTable.Controls.Add(lblStatValueTasks, 1, 4);
-        _statsTable.Controls.Add(lblStatNameSkill, 0, 5);
-        _statsTable.Controls.Add(lblStatValueSkill, 1, 5);
-        _statsTable.Controls.Add(lblStatNameCoOpExp, 0, 6);
-        _statsTable.Controls.Add(lblStatValueCoOpExp, 1, 6);
+        _statsTable.Controls.Add(lblStatNameCoOpExp, 0, 4);
+        _statsTable.Controls.Add(lblStatValueCoOpExp, 1, 4);
+        _statsTable.Controls.Add(lblStatNameTasks, 0, 5);
+        _statsTable.Controls.Add(lblStatValueTasks, 1, 5);
+        _statsTable.Controls.Add(lblStatNameSkill, 0, 6);
+        _statsTable.Controls.Add(lblStatValueSkill, 1, 6);
         _statsTable.Dock = DockStyle.Fill;
         _statsTable.Location = new Point(0, 0);
         _statsTable.Name = "_statsTable";
@@ -1460,13 +1460,39 @@ partial class MainForm
         lblStatValueJuju.Text = "—";
         lblStatValueJuju.TextAlign = ContentAlignment.MiddleRight;
         // 
+        // lblStatNameCoOpExp
+        // 
+        lblStatNameCoOpExp.BackColor = Color.Transparent;
+        lblStatNameCoOpExp.Dock = DockStyle.Fill;
+        lblStatNameCoOpExp.Font = new Font("Segoe UI", 9F);
+        lblStatNameCoOpExp.ForeColor = Color.FromArgb(145, 163, 189);
+        lblStatNameCoOpExp.Location = new Point(3, 124);
+        lblStatNameCoOpExp.Name = "lblStatNameCoOpExp";
+        lblStatNameCoOpExp.Size = new Size(252, 31);
+        lblStatNameCoOpExp.TabIndex = 0;
+        lblStatNameCoOpExp.Text = "Co-op EXP Pool";
+        lblStatNameCoOpExp.TextAlign = ContentAlignment.MiddleLeft;
+        // 
+        // lblStatValueCoOpExp
+        // 
+        lblStatValueCoOpExp.BackColor = Color.Transparent;
+        lblStatValueCoOpExp.Dock = DockStyle.Fill;
+        lblStatValueCoOpExp.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
+        lblStatValueCoOpExp.ForeColor = Color.FromArgb(235, 241, 250);
+        lblStatValueCoOpExp.Location = new Point(261, 124);
+        lblStatValueCoOpExp.Name = "lblStatValueCoOpExp";
+        lblStatValueCoOpExp.Size = new Size(94, 31);
+        lblStatValueCoOpExp.TabIndex = 1;
+        lblStatValueCoOpExp.Text = "—";
+        lblStatValueCoOpExp.TextAlign = ContentAlignment.MiddleRight;
+        // 
         // lblStatNameTasks
         // 
         lblStatNameTasks.BackColor = Color.Transparent;
         lblStatNameTasks.Dock = DockStyle.Fill;
         lblStatNameTasks.Font = new Font("Segoe UI", 9F);
         lblStatNameTasks.ForeColor = Color.FromArgb(145, 163, 189);
-        lblStatNameTasks.Location = new Point(3, 124);
+        lblStatNameTasks.Location = new Point(3, 155);
         lblStatNameTasks.Name = "lblStatNameTasks";
         lblStatNameTasks.Size = new Size(252, 31);
         lblStatNameTasks.TabIndex = 0;
@@ -1479,7 +1505,7 @@ partial class MainForm
         lblStatValueTasks.Dock = DockStyle.Fill;
         lblStatValueTasks.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
         lblStatValueTasks.ForeColor = Color.FromArgb(235, 241, 250);
-        lblStatValueTasks.Location = new Point(261, 124);
+        lblStatValueTasks.Location = new Point(261, 155);
         lblStatValueTasks.Name = "lblStatValueTasks";
         lblStatValueTasks.Size = new Size(94, 31);
         lblStatValueTasks.TabIndex = 1;
@@ -1489,10 +1515,10 @@ partial class MainForm
         // lblStatNameSkill
         // 
         lblStatNameSkill.BackColor = Color.Transparent;
-        lblStatNameSkill.Dock = DockStyle.Fill;
         lblStatNameSkill.Font = new Font("Segoe UI", 9F);
         lblStatNameSkill.ForeColor = Color.FromArgb(145, 163, 189);
-        lblStatNameSkill.Location = new Point(3, 155);
+        lblStatNameSkill.ImageAlign = ContentAlignment.TopCenter;
+        lblStatNameSkill.Location = new Point(3, 186);
         lblStatNameSkill.Name = "lblStatNameSkill";
         lblStatNameSkill.Size = new Size(252, 31);
         lblStatNameSkill.TabIndex = 0;
@@ -1503,41 +1529,14 @@ partial class MainForm
         // lblStatValueSkill
         // 
         lblStatValueSkill.BackColor = Color.Transparent;
-        lblStatValueSkill.Dock = DockStyle.Fill;
         lblStatValueSkill.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
         lblStatValueSkill.ForeColor = Color.FromArgb(235, 241, 250);
-        lblStatValueSkill.Location = new Point(261, 155);
+        lblStatValueSkill.Location = new Point(261, 186);
         lblStatValueSkill.Name = "lblStatValueSkill";
         lblStatValueSkill.Size = new Size(94, 31);
         lblStatValueSkill.TabIndex = 1;
         lblStatValueSkill.Text = "—";
         lblStatValueSkill.TextAlign = ContentAlignment.MiddleRight;
-        // 
-        // lblStatNameCoOpExp
-        // 
-        lblStatNameCoOpExp.BackColor = Color.Transparent;
-        lblStatNameCoOpExp.Dock = DockStyle.Fill;
-        lblStatNameCoOpExp.Font = new Font("Segoe UI", 9F);
-        lblStatNameCoOpExp.ForeColor = Color.FromArgb(145, 163, 189);
-        lblStatNameCoOpExp.Location = new Point(3, 186);
-        lblStatNameCoOpExp.Name = "lblStatNameCoOpExp";
-        lblStatNameCoOpExp.Size = new Size(252, 108);
-        lblStatNameCoOpExp.TabIndex = 0;
-        lblStatNameCoOpExp.Text = "Co-op EXP Pool";
-        lblStatNameCoOpExp.TextAlign = ContentAlignment.MiddleLeft;
-        // 
-        // lblStatValueCoOpExp
-        // 
-        lblStatValueCoOpExp.BackColor = Color.Transparent;
-        lblStatValueCoOpExp.Dock = DockStyle.Fill;
-        lblStatValueCoOpExp.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
-        lblStatValueCoOpExp.ForeColor = Color.FromArgb(235, 241, 250);
-        lblStatValueCoOpExp.Location = new Point(261, 186);
-        lblStatValueCoOpExp.Name = "lblStatValueCoOpExp";
-        lblStatValueCoOpExp.Size = new Size(94, 108);
-        lblStatValueCoOpExp.TabIndex = 1;
-        lblStatValueCoOpExp.Text = "—";
-        lblStatValueCoOpExp.TextAlign = ContentAlignment.MiddleRight;
         // 
         // pnlResetRow
         // 
