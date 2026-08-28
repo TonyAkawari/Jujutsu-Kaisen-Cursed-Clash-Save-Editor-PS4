@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Simple save editor for JJK Cursed Clash PS4 that also fixes your checksum so chan" +
     "ges you make with or without the editor are validadted an ready to work")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+488a73fc3575cb9c0445641de45be54b0d3e4abd")]
 [assembly: System.Reflection.AssemblyProductAttribute("JJK Cursed Clash Save Editor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursedClashSaveEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

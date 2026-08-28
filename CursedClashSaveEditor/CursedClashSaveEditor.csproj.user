@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_LastSelectedProfileId>G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+    <_LastSelectedProfileId>G:\1 - Save Editor Dev\JJK Cursed Clash Save Editor PS4\Jujutsu Kaisen Cursed Clash Save Editor PS4\CursedClashSaveEditor\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="MainForm.cs">
