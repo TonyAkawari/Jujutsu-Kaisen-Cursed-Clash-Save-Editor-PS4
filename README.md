@@ -7,9 +7,9 @@
 
 Features & Overview
 
-- Save File Validation:** Automatically calculates and updates decrypted save checksums to prevent save corruption.
-- Resource Editing:** Max out essential currencies and experience pools in seconds.
-- Trophy-Safe Options:** Clearly categorized cheats to preserve trophy progress while maximizing unlocks.
+- **Save File Validation:** Automatically calculates and updates decrypted save checksums to prevent save corruption.
+- **Resource Editing:** Max out essential currencies and experience pools in seconds.
+- **Trophy-Safe Options:** Clearly categorized cheats to preserve trophy progress while maximizing unlocks.
 
 Independent Boosts
 > Get items unlocked faster without messing up trophy progression.
