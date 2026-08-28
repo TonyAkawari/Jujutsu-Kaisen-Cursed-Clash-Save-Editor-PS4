@@ -37,7 +37,7 @@ Skill Level Modifications
 | `4,999` | **5k Trophy Prep** *(Gain skill level points in-game to pop the 5k trophy)* |
 | `10,000` | High-tier boost |
 | `14,999` | **15k Trophy Prep** *(Gain skill level points in-game to pop the 15k trophy)* |
-| `40,000` | **Maximum Unlocks** *(Unlocks the most expensive items in the game. Note: Will skip the 5k/15k trophy pop thresholds).* |
+| `40,000` | **Maximum Unlocks** *(Unlocks the most expensive items in the game. Note:5k/15k trophies won't pop, do them 1st).* |
 
 Basic Guide
 1. **Decrypt Save:** Decrypt your PS4 save file using your preferred PS4 save management tool (e.g., Save Wizard / Apollo Save Tool).
