@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>CursedClashSaveEditor</AssemblyName>
+    <RootNamespace>CursedClashSaveEditor</RootNamespace>
+    <ApplicationIcon>Resources\juju.ico</ApplicationIcon>
+    <Company>Akawari</Company>
+    <Authors>Anthony Akawari</Authors>
+    <Version>1.0.0</Version>
+    <Title>JJK Cursed Clash Save Editor PS4</Title>
+    <Product>JJK Cursed Clash Save Editor</Product>
+    <Description>Simple save editor for JJK Cursed Clash PS4 that also fixes your checksum so changes you make with or without the editor are validadted an ready to work</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Resources\juju.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

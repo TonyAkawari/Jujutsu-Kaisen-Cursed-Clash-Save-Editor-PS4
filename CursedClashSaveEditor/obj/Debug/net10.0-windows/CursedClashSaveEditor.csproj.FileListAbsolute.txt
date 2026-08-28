@@ -1,0 +1,17 @@
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\bin\Debug\net10.0-windows\CursedClashSaveEditor.exe
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\bin\Debug\net10.0-windows\CursedClashSaveEditor.deps.json
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\bin\Debug\net10.0-windows\CursedClashSaveEditor.runtimeconfig.json
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\bin\Debug\net10.0-windows\CursedClashSaveEditor.dll
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\bin\Debug\net10.0-windows\CursedClashSaveEditor.pdb
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.AssemblyInfoInputs.cache
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.AssemblyInfo.cs
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.csproj.CoreCompileInputs.cache
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.dll
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\refint\CursedClashSaveEditor.dll
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.pdb
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.genruntimeconfig.cache
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\ref\CursedClashSaveEditor.dll
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.MainForm.resources
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.csproj.GenerateResource.cache
+G:\Downloads\CursedClashSaveEditor-source\CursedClashSaveEditor\obj\Debug\net10.0-windows\CursedClashSaveEditor.Properties.Resources.resources

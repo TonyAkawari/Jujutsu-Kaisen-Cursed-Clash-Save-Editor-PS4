@@ -1,0 +1,5 @@
+/home/runner/workspace/publish/win-x64/CursedClashSaveEditor.exe
+/home/runner/workspace/publish/win-x64/CursedClashSaveEditor.dll
+/home/runner/workspace/publish/win-x64/CursedClashSaveEditor.deps.json
+/home/runner/workspace/publish/win-x64/CursedClashSaveEditor.runtimeconfig.json
+/home/runner/workspace/publish/win-x64/CursedClashSaveEditor.pdb
