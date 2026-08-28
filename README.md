@@ -15,9 +15,9 @@ Independent Boosts
 > Get items unlocked faster without messing up trophy progression.
 
 - **Co-op Rewards & Items:** Unlocks high-tier items early in the shop.
-  - Set **99 Binding Vows** (Co-op Won)
-  - Set **99 Rank S** (Co-op Won)
-  - Set **99 Co-op Completions** *(Unlocks C Poses automatically)*
+  - Set **99 Binding Vows**
+  - Set **99 Rank S**
+  - Set **99 Co-op Completions**
 - **Juju Points:** Max Juju Points (Money Cheat)
 - **Co-op EXP:** Max Co-op EXP Pool
 
